@@ -74,38 +74,31 @@ career-profile:
       Html and Css and when I learned that I would start learning javascript 
       and other necessary knowledge to become a successful web developer. My goal is to get it done as soon as possible. 
 education:
+ 
     - degree: High school
       university: STŠ "Mihajlo Pupin" Kula
       vocation:  Mechanical technician
       time: 2010 - 2014
-      details: |
+      details: 
     
 experiences:
-    - role: 
-      time: 
-      company: 
-      details: |
+    - role: Assistant cook 
+      time: 1.04.2018-1.10.2019
+      company: Hotel Parentium (Poreč, Croatia)
+      details:
+      
+    - role: Mechanical technician
+      time: 1.04.2017-1.01.2018.
+      company: Foxconn ( Nitra, Slovakia)
+      details: 
+     
+    - role: Production worker
+      time: 1.09.2015-1.01.2017
+      company: Samsung (Trnava, Slovakia) and Volkswagen (Bratislava, Slovakia)
+      details: 
+   
        
    
-projects:
-    title: 
-    intro: >
-      .
-    assignments:
-      - title:
-        link: 
-        tagline: 
-
-     
-publications:
-    title:
-    intro: |
-      
-    papers:
-      - title: 
-        link: 
-        authors: 
-        conference:
       
 
 skills:
